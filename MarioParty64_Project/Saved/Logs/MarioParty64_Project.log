@@ -3787,3 +3787,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.08-20.46.37:619][161]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.08-20.46.37:620][161]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TileMap.TileMap
 [2021.05.08-20.46.37:620][161]LogContentValidation: Display: Validating World /Game/TestLevel.TestLevel
+[2021.05.08-21.01.17:309][415]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.05.08-21.01.29:549][582]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.05.08-21.01.34:211][743]LogSlate: Window 'Project Settings' being destroyed
+[2021.05.08-21.01.34:225][743]LogSlate: Window 'Project Settings' being destroyed
+[2021.05.08-21.01.39:588][962]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.05.08-21.01.48:183][310]LogSlate: Window 'Project Settings' being destroyed
+[2021.05.08-21.01.48:194][310]LogSlate: Window 'Project Settings' being destroyed
+[2021.05.08-21.02.10:437][422]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
